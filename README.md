@@ -65,6 +65,9 @@ belal_amr:
 </tr>
 </table>
 
+> [!TIP]
+> ⚡ Fun fact: I built a file copying tool that runs **4× faster than Windows Explorer** using a clean C# GUI wrapper around `robocopy`.
+
 ---
 
 <!-- TECH STACK -->
@@ -97,7 +100,6 @@ belal_amr:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/WinForms-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
@@ -108,7 +110,6 @@ belal_amr:
 <br/>
 <div align="center">
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -116,6 +117,18 @@ belal_amr:
 ![Claude](https://img.shields.io/badge/Claude_AI-7c3aed?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor_IDE-181717?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>☁️ Cloud & BaaS</b></summary>
+<br/>
+<div align="center">
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 </details>
@@ -153,6 +166,7 @@ belal_amr:
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BelalAmrMohamed&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&border_radius=12&hide_border=false" width="95%" alt="Belal Amr Mohamed GitHub contribution activity graph" title="Belal Amr Mohamed GitHub contribution activity graph" loading="lazy"/>
+
 </div>
 
 ---
@@ -260,6 +274,13 @@ belal_amr:
 </tr>
 </table>
 
+<br/>
+<div align="center">
+  <a href="https://github.com/BelalAmrMohamed/TurboCopy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BelalAmrMohamed&repo=TurboCopy&theme=tokyonight&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&border_color=30363d&border_radius=12" loading="lazy" alt="TurboCopy repository pin card" title="TurboCopy GitHub repository"/>
+  </a>
+</div>
+
 ---
 
 <!-- COMPETITIVE PROGRAMMING -->
@@ -270,7 +291,13 @@ belal_amr:
 <div align="center">
 
 <a href="https://codeforces.com/profile/BelalAmr">
-  <img src="https://img.shields.io/badge/Codeforces-BelalAmr-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Belal Amr Mohamed Codeforces profile badge" title="Belal Amr Mohamed Codeforces profile badge" loading="lazy"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=BelalAmr&theme=dark&max_problems=5" loading="lazy" alt="Belal Amr Codeforces stats card showing rating and solved problems" title="Codeforces competitive programming stats" width="420"/>
+</a>
+
+<br/><br/>
+
+<a href="https://codeforces.com/profile/BelalAmr">
+  <img src="https://img.shields.io/badge/Codeforces-BelalAmr-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" loading="lazy" alt="Codeforces profile BelalAmr" title="Visit Codeforces profile"/>
 </a>
 
 > Actively competing on **Codeforces** — sharpening algorithms, data structures, and problem-solving under pressure.
